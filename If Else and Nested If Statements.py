@@ -1,4 +1,4 @@
-# 1. Program to check if a number is positive using if statement. 
+# 1. Program to check if a number is positive using an if statement. 
 
 num = int(input("Enter a number : "))
 if num>0:
@@ -13,7 +13,7 @@ if num>0:
 else :
     print(f"{num} is nega2tive")
     
-# 3. program to check if the number is positive, negative or zero  using if-elif-else.
+# 3. Program to check if the number is positive, negative or zero  using if-elif-else.
 
 num = int(input("Enter a number : "))
 if num==0:
